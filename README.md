@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tookiebunten
 - 👀 I’m interested in place-names, maps, data and coding
-- 🌱 I’m currently learning QGIS
+- 🌱 I’m currently learning QGIS, Python
 - 💞️ I’m looking to collaborate on place-names, maps, data and coding
 - 📫 How to reach me @tookiebunten on twitter
 
